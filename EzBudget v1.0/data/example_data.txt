@@ -1,0 +1,8 @@
+Expense/Income, Name, Amount, Description
+ Income, Allowance, 10.50, None
+ Income, Allowance, 10.50, None
+ Income, Allowance, 10.50, None
+ Expense, Monthly Rent, 1200, Pretty expensive
+ Expense, Nintendo Switch, 500, Videogame console
+ Income, Lottery, 12, My greatest achievement
+ Income, Settlement Money, 2, It was over a figurine
