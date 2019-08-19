@@ -644,7 +644,7 @@ class MainWin(tk.Tk): #Inherit the class tk.Tk;
         self.geometry(cfg.win_size) #Set size of window.
         self.config(bg=colours['silver'])
         self.createWidgets() #Create widgets
-        self.iconbitmap(assets.ui['icon'])
+        #self.iconbitmap(assets.ui['icon']) #This asset doesn't exist. IIRC I couldn't get this working.
 
     def createWidgets(self): #Create all widgets.
         self.createTitleBar()
