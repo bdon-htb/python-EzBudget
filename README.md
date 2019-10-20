@@ -8,13 +8,13 @@ EzBudget uses the python library **matplotlib** to display pie graphs. If you do
 pip install matplotlib
 ```
 ## Preview Images
-! [Screenshot of Main Menu](https://github.com/bj-phillips/python-EzBudget/blob/master/Preview%20Images/Capture1.PNG)
+![Screenshot of Main Menu](https://github.com/bj-phillips/python-EzBudget/blob/master/Preview%20Images/Capture1.PNG)
 
-! [Screenshot of Data Menu](https://github.com/bj-phillips/python-EzBudget/blob/master/Preview%20Images/Capture2.PNG)
+![Screenshot of Data Menu](https://github.com/bj-phillips/python-EzBudget/blob/master/Preview%20Images/Capture2.PNG)
 
-! [Screenshot of Pie Graph](https://github.com/bj-phillips/python-EzBudget/blob/master/Preview%20Images/Capture3.PNG)
+![Screenshot of Pie Graph](https://github.com/bj-phillips/python-EzBudget/blob/master/Preview%20Images/Capture3.PNG)
 
-! [Screenshot of Statistics](https://github.com/bj-phillips/python-EzBudget/blob/master/Preview%20Images/Capture4.PNG)
+![Screenshot of Statistics](https://github.com/bj-phillips/python-EzBudget/blob/master/Preview%20Images/Capture4.PNG)
 
 ### Notes 
 This project was designed for, and is likely only compatible with windows systems (specifically, windows 10).
